@@ -21,7 +21,7 @@ const Home = () => {
             <h1>Food Decider for my Wife</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Pre-StackOverflow: What's this error?</h2>
+            <h2>Error Decoder</h2>
           </div>
         </div>
         <div className="prompt-container">
